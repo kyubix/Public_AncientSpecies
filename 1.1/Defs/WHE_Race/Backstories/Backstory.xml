@@ -39,9 +39,7 @@
 				<amount>-2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -508,9 +506,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -530,9 +526,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -552,9 +546,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Story</li>
 			<li>AS_WHE_Colonist</li>
@@ -575,9 +567,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -597,9 +587,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Story</li>
 			<li>AS_WHE_Colonist</li>
@@ -620,9 +608,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -642,9 +628,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -664,9 +648,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -686,9 +668,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -708,9 +688,7 @@
 				<amount>2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -730,9 +708,7 @@
 				<amount>3</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -752,9 +728,7 @@
 				<amount>4</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -774,9 +748,7 @@
 				<amount>-2</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -796,9 +768,7 @@
 				<amount>-3</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -818,9 +788,7 @@
 				<amount>6</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -840,9 +808,7 @@
 				<amount>-1</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
@@ -862,9 +828,7 @@
 				<amount>8</amount>
 			</li>
 		</skillGains>
-		<workDisables>
-			<li>Artistic</li>
-		</workDisables>
+		
 		<spawnCategories>
 			<li>AS_WHE_Colonist</li>
 			<li>AS_WHE_Villager</li>
