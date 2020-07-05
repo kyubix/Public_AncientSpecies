@@ -85,6 +85,5 @@
 		<li>Ludeon.RimWorld</li>
 		<li>erdelf.HumanoidAlienRaces</li>
       <li>showhair.kv.rw</li>
-      <li>Haduki.AncientSpecies</li>
 	</loadAfter>
 </ModMetaData>
