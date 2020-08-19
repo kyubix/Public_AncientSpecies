@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-<ThingDef Name="AS_WHE_BasePawn" Abstract="True">
-    <thingClass>Pawn</thingClass>
-    <category>Pawn</category>
-    <selectable>true</selectable>
-    <tickerType>Normal</tickerType>
-    <altitudeLayer>Pawn</altitudeLayer>
-    <useHitPoints>false</useHitPoints>
-    <hasTooltip>true</hasTooltip>
-    <soundImpactDefault>BulletImpact_Flesh</soundImpactDefault>
+<ThingDef ParentName="BasePawn" Name="AS_WHE_BasePawn" Abstract="True">
+    <!-- <thingClass>Pawn</thingClass> -->
+    <!-- <category>Pawn</category> -->
+    <!-- <selectable>true</selectable> -->
+    <!-- <tickerType>Normal</tickerType> -->
+    <!-- <altitudeLayer>Pawn</altitudeLayer> -->
+    <!-- <useHitPoints>false</useHitPoints> -->
+    <!-- <hasTooltip>true</hasTooltip> -->
+    <!-- <soundImpactDefault>BulletImpact_Flesh</soundImpactDefault> -->
     <inspectorTabs>
-		<li>ITab_Pawn_Health</li>
-		<li>ITab_Pawn_Needs</li>
-		<li>ITab_Pawn_Character</li>
-		<li>ITab_Pawn_Training</li>
-		<li>ITab_Pawn_Gear</li>
-		<li>ITab_Pawn_Guest</li>
-		<li>ITab_Pawn_Prisoner</li>
-		<li>ITab_Pawn_Social</li>
-		<li>ITab_Pawn_Log</li>
+		<!-- <li>ITab_Pawn_Health</li> -->
+		<!-- <li>ITab_Pawn_Needs</li> -->
+		<!-- <li>ITab_Pawn_Character</li> -->
+		<!-- <li>ITab_Pawn_Training</li> -->
+		<!-- <li>ITab_Pawn_Gear</li> -->
+		<!-- <li>ITab_Pawn_Guest</li> -->
+		<!-- <li>ITab_Pawn_Prisoner</li> -->
+		<!-- <li>ITab_Pawn_Social</li> -->
+		<!-- <li>ITab_Pawn_Log</li> -->
     </inspectorTabs>
     <drawGUIOverlay>true</drawGUIOverlay>
 </ThingDef>
@@ -57,9 +57,9 @@
 		    <alienPartGenerator>
           <headOffset>(0.00, 0.00)</headOffset>
           <customDrawSize>(1.15, 1.15)</customDrawSize>
-          <customHeadDrawSize>1.00, 1.00)</customHeadDrawSize>
+          <customHeadDrawSize>(1.15, 1.15)</customHeadDrawSize>
           <customPortraitDrawSize>(1.25, 1.25)</customPortraitDrawSize>
-          <customPortraitHeadDrawSize>(1.00, 1.00)</customPortraitHeadDrawSize>
+          <customPortraitHeadDrawSize>(1.25, 1.25)</customPortraitHeadDrawSize>
           <aliencrowntypes>
             <li>F_WHE_1</li>
             <li>F_WHE_2</li>
