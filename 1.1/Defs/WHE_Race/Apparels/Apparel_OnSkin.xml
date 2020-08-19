@@ -391,7 +391,7 @@
   </ThingDef>
 
   <!-- UnderWare H -->
-  <ThingDef ParentName="AS_WHE_ApparelNoColorBase">
+  <!-- <ThingDef ParentName="AS_WHE_ApparelNoColorBase">
     <defName>AS_WHE_UnderwearH</defName>
     <description>テスト実装。</description>
     <label>黒のベイビードール（ハーフエルフ）</label>
@@ -443,7 +443,7 @@
         <li>RoyalTier7</li>
       </tags>
     </apparel>
-  </ThingDef>
+  </ThingDef> -->
 
   <!-- Nee Socks -->
   <ThingDef ParentName="AS_WHE_ApparelNoColorBase">
