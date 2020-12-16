@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Ancient Species</name>
+  <author>Haduki, Heli</author>
+  <supportedVersions>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <packageId>Haduki.AncientSpecies_copy</packageId>
+  <description>
+   こちらのModは、いくつかの種族とその派閥を追加するMODです。
+
+   [現在追加される種族]
+   ・ハーフエルフ（Weeb Half Elf Race）
+
+   [装備]
+   ・ハーフエルフに関する衣類（全27種）
+      ・下着6種
+      ・靴下2種
+      ・衣服11種
+      ・アーマー類3種
+      ・被り物4種
+      ・シールドベルト代替のシールドスカーフ1種
+   ・武器
+      ・弓1種
+
+   [研究]
+   ・ハーフエルフに関する衣類の研究
+
+   [推奨Mod]
+   ・Camera+
+
+   [Supported language/サポートしている言語]
+   Japanese
+
+   [注意]
+   ・このModは現在開発中のものです。予告なく内容に変更が加わる場合がございます旨、ご了承下さい。
+   ・バニラ体型の服装とは互換性がありません。
+
+   [開発者]
+   Code: Haduki
+   Art : Heli
+
+   Special Thanks
+      Many peoples at RimMod相談所.
+
+   [Mod Information]
+   Ver.0.1(latest)
+   Supported Rimworld versions are below list.
+   1.1
+   1.2
+
+   [Attention]
+   ※Modの互換性については、必ず対応するわけではなく、製作者の判断で行います旨ご了承の上、当Modをご利用ください。
+   Please note that the compatibility of the mods is not always supported and is done at the discretion of the creator.
+
+   ※Steam外のModについては、原則互換性の対応はしていません。お問い合わせもご遠慮ください。
+   We don't support the compatibility of mods outside of Steam and please do not inquire.
+
+   ※当MODの再配布、商用利用等は原則禁止となります。
+   Redistribution and commercial use of this mod is prohibited in principle.
+
+   ※上記注意点について、ご理解、ご了承頂けない方のMod利用は、固くお断り致します。
+   If you can't agree the above attentions, should not download this mod. 
+
+   (C) 2020 Haduki
+   </description>
+  <modDependencies>
+    <li>
+      <packageId>erdelf.HumanoidAlienRaces</packageId>
+      <displayName>Humanoid Alien Races 2.0</displayName>
+      <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=839005762</steamWorkshopUrl>
+    </li>
+    <li>
+      <packageId>brrainz.harmony</packageId>
+      <displayName>Harmony</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/2009463077</steamWorkshopUrl>
+      <downloadUrl>https://github.com/pardeike/HarmonyRimWorld/releases/latest</downloadUrl>
+    </li>
+    <li>
+      <packageId>velc.HatsDisplaySelection</packageId>
+      <displayName>Hats Display Selection</displayName>
+      <steamWorkshopUrl>steam://url/CommunityFilePage/1542291825</steamWorkshopUrl>
+    </li>
+  </modDependencies>
+  <loadAfter>
+    <li>brrainz.harmony</li>
+    <li>Ludeon.RimWorld</li>
+    <li>erdelf.HumanoidAlienRaces</li>
+    <li>showhair.kv.rw</li>
+  </loadAfter>
+</ModMetaData>
